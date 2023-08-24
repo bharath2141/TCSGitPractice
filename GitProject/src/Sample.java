@@ -18,7 +18,9 @@ public class Sample {
 	}
 	public void method2()
 	{
-		
+
+		System.out.println("in merhod2");
+
 	}
 
 }
