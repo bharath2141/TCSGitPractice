@@ -11,5 +11,14 @@ public class Sample {
 		System.out.println("Hi-hello");
 
 	}
+	
+	public void method1()
+	{
+		
+	}
+	public void method2()
+	{
+		
+	}
 
 }
