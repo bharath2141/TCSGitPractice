@@ -10,5 +10,10 @@ public class Sample {
 		System.out.println("Hi");
 
 	}
+	
+	public void method1()
+	{
+		
+	}
 
 }
